@@ -1,0 +1,66 @@
+
+/* home */
+
+/* portfolio */
+
+
+#carousel{
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+/* contact */ 
+
+
+
+#formInput{
+    height: 40%;
+    width: 35%;
+    margin-left: 35%;
+    margin-top: 5%;
+    border-style: outset;
+    padding: 2%;
+
+    display: inline-block;
+
+}
+
+#formInput textarea{
+    width: 90%;
+}
+
+.inputt{
+    padding: 1%;
+    width: 90%;
+}
+
+
+.contact_header{
+
+    padding-left: 10%;
+    color: rgb(70, 70, 70);
+
+}
+
+
+
+#linkedin{
+    width: 10%;
+    margin-top: 30px;
+    margin-left: 10px;
+    float: left;
+}
+
+#linkedin_image{
+    width: 3%;
+    height: 3%;
+    margin-left: 25%;
+}
+
+#linkedDivImage{
+    margin-left: 500px;
+    float: right;
+    width: 100px;
+}
