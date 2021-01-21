@@ -6,7 +6,7 @@ body{
 /* home */
 
 h1{
-    font-size: 150px;
+    font-size: 7.5vw;
     margin-left: 12%;
     font-family: 'Roboto Slab', serif;
     color: rgb(70, 70, 70);
@@ -78,6 +78,7 @@ hr{
       max-width: 100%;
     }
   }
+
 /* contact */ 
 
 
